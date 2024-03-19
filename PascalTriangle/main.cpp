@@ -33,6 +33,7 @@ void main()
 		cout.width(width);
 		cout << 1;
 		for (int m = 1; m <= n; m++)
+
 		{
 			mf *= m;
 			int nmf = 1;
